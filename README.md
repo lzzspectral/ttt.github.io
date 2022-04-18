@@ -15,6 +15,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+$1+2=n$
+
+$$n+m=m+n$$
+
 - Bulleted
 - List
 
