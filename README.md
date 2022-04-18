@@ -21,6 +21,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+
 $1+2=n$
 
 $$n+m=m+n$$
