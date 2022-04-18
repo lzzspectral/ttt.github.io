@@ -12,6 +12,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+$e_1$
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -21,7 +24,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+
 
 $1+2=n$
 
